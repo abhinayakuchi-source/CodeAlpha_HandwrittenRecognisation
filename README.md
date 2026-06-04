@@ -1,10 +1,10 @@
-Handwritten Digit Recognition using Scikit-learn
+#Handwritten Digit Recognition using Scikit-learn
 
-Overview
+##Overview
 
 This project recognizes handwritten digits using Machine Learning with the Scikit-learn library. The model is trained on the Digits dataset and predicts handwritten numbers from 0 to 9.
 
-Features
+##Features
 
 - Data preprocessing
 - Handwritten digit classification
@@ -12,7 +12,7 @@ Features
 - Accuracy evaluation
 - Confusion matrix visualization
 
-Technologies Used
+##Technologies Used
 
 - Python
 - Scikit-learn
@@ -20,11 +20,11 @@ Technologies Used
 - Matplotlib
 - Pandas
 
-Dataset
+##Dataset
 
 Scikit-learn Digits Dataset
 
-How to Run
+##How to Run
 
 1. Install the required libraries:
    
@@ -34,21 +34,26 @@ How to Run
    
    python handwritten_digit_recognition.py
 
-Results
+##Results
 
 The model successfully recognizes handwritten digits and evaluates performance using accuracy score and confusion matrix.
 
-Evaluation Metrics
+##Evaluation Metrics
 
 - Accuracy Score
 - Confusion Matrix
 
-Project Structure
+##Project Structure
 
 - handwritten_digit_recognition.py
 - README.md
 - confusion_matrix.png
 
-Author
+##Author
 
-Arju
+Abhinaya Kuchi
+
+##Internship Project 
+
+CodeAlpha Machine Learning Internship 
+
